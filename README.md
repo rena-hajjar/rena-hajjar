@@ -14,7 +14,7 @@
 ---
 ### Contact Me!
 - 📧 Send me an email: 21rsh8@queensu.ca
-- 🔗 Connect with me on <a href="https://www.linkedin.com/in/rena-hajjar/">LinkedIn</a>
+- 🔗 Connect with me on <a target=_blank href="https://www.linkedin.com/in/rena-hajjar/">LinkedIn</a>
 - 🏠 Visit my <a href="https://renasophiahajjar.netlify.app/">Personal Website </a> to learn more!
 <!--
 **rena-hajjar/rena-hajjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
