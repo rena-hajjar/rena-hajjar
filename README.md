@@ -3,8 +3,10 @@
 
 ### Skills & Experience
 - 👨🏻‍💻 **Work**
+  - Incoming Data Engineer with <a href="https://jobs.rbc.com/ca/en/amplify"> RBC Amplify Program </a>, 
+  - Machine Learning Software Engineer Intern @ <a href="https://rbcborealis.com/"> RBC Borealis </a>,
   - Previous Data and Backend Engineer @ <a href="https://www.ontario.ca/"> Ontario Public Service </a>,
-  - SWE @ <a href="https://readwise.io/">Readwise</a>,
+  - Previous SWE @ <a href="https://readwise.io/">Readwise</a>,
   - Undergraduate AI Research Student @ <a href="https://labs.cs.queensu.ca/perklab/">Queen's Perk Lab</a>
 - 💻 **Languages:** `C/C++` `Python` `JavaScript` `HTML/CSS` `SQL` `Haskell` `Java` `Typescript`
 - ⚙️ **Frameworks & Technologies:** `Microsoft Azure` `Docker` `Postman` `MySQL` `TensorFlow` `Springboot` `React` `3D Slicer` `MongoDB`  
